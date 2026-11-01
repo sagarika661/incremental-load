@@ -1,0 +1,15 @@
+{
+	"name": "incrementaldatafctry",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "40717292-a3cb-41bd-85af-5a92b98133dd",
+		"tenantId": "11b3f47a-7092-447e-918e-b3d63f1d6a8e"
+	}
+}

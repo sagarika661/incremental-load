@@ -1,0 +1,13 @@
+{
+	"name": "DS_lookup_max",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_Source",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
